@@ -28,24 +28,45 @@ can see if there are any issues or not.
 The .exe file will appear in the same folder where all the other files are with the name you set it as and you can now send 
 this to your victims.😈
 FEATURES : 
+
 Tokens from firefox and all chromium based browsers🟢
+
 Discord Name🟢
+
 Google Passwords🟢
+
 Google Cookies🟢
+
 IP🟢
+
 Phone Number🟢
+
 Email🟢
+
 If They Have Billing🟢
+
 If They Have Nitro🟢
+
 What OS They're Using🟢
+
 RAM🟢
+
 GPU🟢
+
 CPU🟢
+
 Injection🟢
+
 Browser History🟢
+
 Wifi Passwords🟢
+
 Minecraft Session Info🟢
+
 Epic Games Offline Data🟢
+
 2FA Enabled Or Not🟢
+
 Gift Inventory Codes🟢
+
 NordVpn🟢
