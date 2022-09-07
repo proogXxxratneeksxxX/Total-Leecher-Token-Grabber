@@ -27,7 +27,8 @@ can see if there are any issues or not.
 
 The .exe file will appear in the same folder where all the other files are with the name you set it as and you can now send 
 this to your victims.😈
-FEATURES : 
+
+# FEATURES : 
 
 Tokens from firefox and all chromium based browsers🟢
 
