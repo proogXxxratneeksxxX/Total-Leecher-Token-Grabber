@@ -1,7 +1,7 @@
 # Total-Leecher
 Python tool to log chrome passwords and discord tokens from ALL browsers including firefox
 
-Once you've downloaded the files extract the folder so it's no longer a .zip file.
+###### 1. Once you've downloaded the files extract the folder so it's no longer a .zip file.
 
 ###### 2. Open The install.bat File:
 
