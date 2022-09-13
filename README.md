@@ -36,11 +36,11 @@ Discord Name🟢
 
 Google Passwords🟢
 
-Opera Gx Passwords🟢 ##### NEW
+Opera Gx Passwords🟢 ##### NEW🟢🟢🟢🟢🟢
 
-Brave Passwords🟢 ##### NEW
+Brave Passwords🟢 ##### NEW🟢🟢🟢🟢🟢
 
-Microsoft Edge Passwords🟢 ##### NEW
+Microsoft Edge Passwords🟢 ##### NEW🟢🟢🟢🟢🟢
 
 Google Cookies🟢
 
