@@ -38,9 +38,9 @@ Google Passwords🟢
 
 Opera Gx Passwords🟢 ##### NEW🟢🟢🟢🟢🟢
 
-Brave Passwords🟢 ##### NEW🟢🟢🟢🟢🟢
+Brave Passwords🟢 ##### NEW 2.0🟢🟢🟢🟢🟢
 
-Microsoft Edge Passwords🟢 ##### NEW🟢🟢🟢🟢🟢
+Microsoft Edge Passwords🟢 ##### NEW IN 2.0🟢🟢🟢🟢🟢
 
 Google Cookies🟢
 
