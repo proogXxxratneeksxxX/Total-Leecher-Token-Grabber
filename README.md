@@ -62,8 +62,6 @@ GPU🟢
 
 CPU🟢
 
-Injection🟢
-
 Browser History🟢
 
 Wifi Passwords🟢
