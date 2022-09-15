@@ -1,3 +1,5 @@
+![sdf](https://user-images.githubusercontent.com/112953528/190407268-23e56e03-7a6a-438e-b4ed-699293c88727.png)
+![sdf2](https://user-images.githubusercontent.com/112953528/190407274-1a26c808-8e9f-46d5-ba88-e94233d7d3d7.png)
 # Total-Leecher version 2.0 password extract from all browsers!! pls leave me a star🌟 for my hard work
 Python tool to log saved passwords and discord tokens from ALL browsers including firefox
 
